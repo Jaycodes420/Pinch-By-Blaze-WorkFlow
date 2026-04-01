@@ -1,2 +1,3 @@
 # Pinch-By-Blaze-WorkFlow
 Body Piercing Studio Booking Website
+A scheduling and workflow automation system for small service businesses using Claude AI, Notion, and automation tools. Designed to streamline bookings, task tracking, and client communication.
